@@ -23,5 +23,6 @@ This dashboard is useful for teams that need visibility into:
 - Performance reporting teams
 
 ## Live dashboard
+[View on Github](https://vinayplusj.github.io/tableau-visualizations/digital-analytics-leadgen-dashboard.html)
 
 [View on Tableau Public](https://public.tableau.com/app/profile/vinay.jagannath/viz/DigitalAnalyticsDashboardforLeadgenerationBusiness/1)
